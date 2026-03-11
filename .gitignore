@@ -30,8 +30,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env*.local
-.env
+# .env*.local (commented out to include .env.local in repo)
+# .env
 
 # vercel
 .vercel
@@ -41,7 +41,7 @@ yarn-error.log*
 next-env.d.ts
 
 # PWA files
-/public/sw.js
+# /public/sw.js (commented out to include custom service worker)
 /public/workbox-*.js
 /public/worker-*.js
 /public/sw.js.map
