@@ -52,6 +52,7 @@ This PWA News Aggregator is a complete implementation of modern web development 
 
 1. **Install dependencies**
 ```bash
+
 cd pwa-news-aggregator
 npm install
 ```
