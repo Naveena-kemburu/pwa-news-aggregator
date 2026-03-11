@@ -288,6 +288,9 @@ pwa-news-aggregator/
 -  TypeScript for type safety
 -  ESLint for code quality
 
+  ## Video demo
+  https://drive.google.com/file/d/1x7e-STXvCGq33EsZZsDhcCvmSwV0q1D4/view?usp=sharing
+
 ## Screenshots
 <img width="800" height="600" alt="NEWSREAD1" src="https://github.com/user-attachments/assets/2978481e-5838-44a8-9226-4589e4ee4616" />
 
