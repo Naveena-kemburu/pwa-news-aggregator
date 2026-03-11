@@ -1,4 +1,4 @@
-# PWA News Aggregator
+<img width="1888" height="872" alt="NEWSREAD1" src="https://github.com/user-attachments/assets/101c6eb6-ebd8-4f93-b104-2571139b5401" /># PWA News Aggregator
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-pwa--news--aggregator-blue?logo=github)](https://github.com/Naveena-kemburu/pwa-news-aggregator)
 
@@ -287,4 +287,8 @@ pwa-news-aggregator/
 -  User permission for notifications
 -  TypeScript for type safety
 -  ESLint for code quality
+
+## Screenshots
+<img width="800" height="600" alt="NEWSREAD1" src="https://github.com/user-attachments/assets/2978481e-5838-44a8-9226-4589e4ee4616" />
+
 
