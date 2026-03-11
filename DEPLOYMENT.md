@@ -4,7 +4,7 @@
 
 - Node.js 18+ or Docker
 - NewsAPI key from [newsapi.org](https://newsapi.org)
-- (Optional) VAPID keys for push notifications
+- (Optional) VAPID keys for push notifications.
 
 ## Getting a NewsAPI Key
 
@@ -112,5 +112,3 @@ Open [http://localhost:3000](http://localhost:3000)
 ```bash
 docker-compose down
 ---
-
-**Need Help?** Check the README.md or open an issue in the repository.
