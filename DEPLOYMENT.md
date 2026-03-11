@@ -11,7 +11,7 @@
 1. Visit [newsapi.org](https://newsapi.org)
 2. Click "Get API Key"
 3. Sign up for a free account
-4. Copy your API key from the dashboard
+4. Copy the API key from the dashboard
 5. Free tier includes 100 requests per day
 
 ## Local Development Setup
