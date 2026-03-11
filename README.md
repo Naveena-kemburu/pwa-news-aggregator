@@ -1,4 +1,4 @@
-<img width="1888" height="872" alt="NEWSREAD1" src="https://github.com/user-attachments/assets/101c6eb6-ebd8-4f93-b104-2571139b5401" /># PWA News Aggregator
+# PWA News Aggregator
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-pwa--news--aggregator-blue?logo=github)](https://github.com/Naveena-kemburu/pwa-news-aggregator)
 
