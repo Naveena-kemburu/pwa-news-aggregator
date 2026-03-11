@@ -4,7 +4,7 @@
 
 - Node.js 18+ or Docker
 - NewsAPI key from [newsapi.org](https://newsapi.org)
-- (Optional) VAPID keys for push notifications.
+- VAPID keys for push notifications.
 
 ## Getting a NewsAPI Key
 
