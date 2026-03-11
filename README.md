@@ -52,9 +52,17 @@ This PWA News Aggregator is a complete implementation of modern web development 
 
 1. **Install dependencies**
 ```bash
+# Clone the repository
+git clone https://github.com/Naveena-kemburu/pwa-news-aggregator.git
 
+# Navigate to the project directory
 cd pwa-news-aggregator
+
+# Install dependencies
 npm install
+
+# Run the development server
+npm run dev
 ```
 
 2. **Environment is pre-configured**
@@ -65,12 +73,8 @@ NEXT_PUBLIC_NEWS_API_KEY=a6385ea41aa9411eba585a6f6d4fef60
 NEXT_PUBLIC_VAPID_PUBLIC_KEY=BBHwp6kWGoMl95_jQ99BvbgefbDNh9FH4BRYK8hnu43ZoLzjNdeVq-vlkC8LG1tOj-REDf6cBxVtBhQXhrA8oIY
 ```
 
-3. **Run the development server**
-```bash
-npm run dev
-```
 
-4. **Open your browser**
+3. **Open your browser**
 Navigate to [http://localhost:3000](http://localhost:3000)
 
 ### Docker Deployment
