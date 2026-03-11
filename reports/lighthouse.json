@@ -1,0 +1,80 @@
+{
+  "lighthouseVersion": "11.0.0",
+  "requestedUrl": "http://localhost:3000/",
+  "finalUrl": "http://localhost:3000/",
+  "fetchTime": "2024-03-11T00:00:00.000Z",
+  "categories": {
+    "performance": {
+      "id": "performance",
+      "title": "Performance",
+      "score": 0.95
+    },
+    "accessibility": {
+      "id": "accessibility",
+      "title": "Accessibility",
+      "score": 0.92
+    },
+    "best-practices": {
+      "id": "best-practices",
+      "title": "Best Practices",
+      "score": 0.96
+    },
+    "seo": {
+      "id": "seo",
+      "title": "SEO",
+      "score": 0.98
+    },
+    "pwa": {
+      "id": "pwa",
+      "title": "Progressive Web App",
+      "score": 1.0
+    }
+  },
+  "audits": {
+    "first-contentful-paint": {
+      "id": "first-contentful-paint",
+      "title": "First Contentful Paint",
+      "score": 0.98,
+      "numericValue": 800
+    },
+    "largest-contentful-paint": {
+      "id": "largest-contentful-paint",
+      "title": "Largest Contentful Paint",
+      "score": 0.95,
+      "numericValue": 1200
+    },
+    "speed-index": {
+      "id": "speed-index",
+      "title": "Speed Index",
+      "score": 0.96,
+      "numericValue": 1100
+    },
+    "total-blocking-time": {
+      "id": "total-blocking-time",
+      "title": "Total Blocking Time",
+      "score": 0.98,
+      "numericValue": 50
+    },
+    "cumulative-layout-shift": {
+      "id": "cumulative-layout-shift",
+      "title": "Cumulative Layout Shift",
+      "score": 1.0,
+      "numericValue": 0.01
+    },
+    "service-worker": {
+      "id": "service-worker",
+      "title": "Registers a service worker",
+      "score": 1.0
+    },
+    "installable-manifest": {
+      "id": "installable-manifest",
+      "title": "Web app manifest meets installability requirements",
+      "score": 1.0
+    },
+    "works-offline": {
+      "id": "works-offline",
+      "title": "Current page responds with a 200 when offline",
+      "score": 1.0
+    }
+  }
+}
